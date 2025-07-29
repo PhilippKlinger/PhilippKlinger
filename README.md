@@ -4,12 +4,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I+am+Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;always+learning+new+things!" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 Hey, I am</h1>
 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;always+learning+new+things!)](https://git.io/typing-svg)
 
 ###
 
