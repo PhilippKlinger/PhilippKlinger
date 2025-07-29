@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">👋 Hey! I am</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;currently+learning+DevSecOps!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;currently+learning+DevSecOps!" alt="Typing SVG" /></a>
 
 
 ###
