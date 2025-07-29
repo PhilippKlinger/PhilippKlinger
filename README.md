@@ -3,10 +3,12 @@
 </div>
 
 ###
+<div>
+<h1 align="center">👋 Hey! I am</h1>
 
-<h1 align="center">👋 Hey, I am</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;currently+learning+DevSecOps!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;always+learning+new+things!)](https://git.io/typing-svg)
+</div>
 
 ###
 
