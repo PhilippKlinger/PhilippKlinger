@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src=".assets/header.png"  />
+  <img height="200" src="./assets/header.png"  />
 </div>
 
 ###
@@ -106,7 +106,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.junico.de/freelancer/philipp-95?einladung=philipp-95" target="_blank">
-    <img src=".assets/junico.png" width="52" height="40" alt="Discord" />
+    <img src="./assets/junico.png" width="52" height="40" alt="Discord" />
   </a>
   <a href="https://tryhackme.com/p/phlppklngr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="TryHackMe" />
