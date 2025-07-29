@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">👋 Hey! I am</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;currently+learning+DevSecOps!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=846&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;currently+learning+DevSecOps!" alt="Typing SVG" /></a>
 
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Backend</h4>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="left">Frontend</h4>
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h4 align="left">DevOps & Tools</h4>
+<h3 align="left">Dev-Tools</h3>
 
 ###
 
@@ -103,11 +103,13 @@
   <a href="https://www.linkedin.com/in/philipp-klinger" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.junico.de/freelancer/philipp-95?einladung=philipp-95" target="_blank">
     <img src="./assets/junico.png" width="52" height="40" alt="Discord" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/phlppklngr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="TryHackMe" />
+    <img src="./assets/tryhackme_logo_full.svg" width="52" height="40" alt="TryHackMe" />
   </a>
 </div>
 
