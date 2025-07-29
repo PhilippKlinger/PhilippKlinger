@@ -115,7 +115,7 @@
 
 ###
 
-<h4 align="left">pacman monitors my GitHub profile</h4>
+<h3 align="left">Be aware! pacman monitors my GitHub profile</h3>
 
 ###
 
