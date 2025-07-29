@@ -4,7 +4,11 @@
 
 ###
 
-<p align="left">👋 Hi, ich bin [Dein Name]<br><br>Ich bin ein **Fullstack Developer**, der gerne ganze Systeme von **Datenbank bis UI** baut.  <br>Mein aktueller Fokus liegt darauf, mein Wissen im Bereich **Cybersecurity** zu vertiefen – z. B. auf TryHackMe.  <br>Ich liebe es, technische Herausforderungen zu lösen, moderne Tools zu kombinieren und stetig neue Technologien zu lernen.</p>
+<p align="center">
+  👋 Hi, I am 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=360&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;always+learning+new+things!" alt="Typing SVG" style="display:inline; vertical-align:middle;" />
+</p>
+
 
 ###
 
@@ -23,13 +27,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="40" alt="pytest logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
+  <img src="https://img.shields.io/badge/Swagger-44A833?logo=swagger&logoColor=white&style=for-the-badge" height="40" alt="swagger logo"  />
 </div>
 
 ###
@@ -98,9 +102,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  <a href="https://www.linkedin.com/in/DEIN-LINKEDIN/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/DEIN-DISCORD-ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
+  </a>
+  <a href="https://tryhackme.com/p/DEIN-USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="TryHackMe" />
+  </a>
 </div>
 
 ###
