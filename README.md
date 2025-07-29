@@ -100,15 +100,15 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/philipp-klinger" target="_blank">
+  <a href="https://www.linkedin.com/in/philipp-klinger" target="_blank" text-decoration="none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.junico.de/freelancer/philipp-95?einladung=philipp-95" target="_blank">
+  <a href="https://www.junico.de/freelancer/philipp-95?einladung=philipp-95" target="_blank" text-decoration="none">
     <img src="./assets/junico.png" width="52" height="40" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/phlppklngr" target="_blank">
+  <a href="https://tryhackme.com/p/phlppklngr" target="_blank" text-decoration="none">
     <img src="./assets/tryhackme_logo_full.svg" width="52" height="40" alt="TryHackMe" />
   </a>
 </div>
