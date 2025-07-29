@@ -102,20 +102,20 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/DEIN-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/philipp-klinger" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://discordapp.com/users/DEIN-DISCORD-ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
+  <a href="https://www.junico.de/freelancer/philipp-95?einladung=philipp-95" target="_blank">
+    <img src=".assets/junico.png" width="52" height="40" alt="Discord" />
   </a>
-  <a href="https://tryhackme.com/p/DEIN-USERNAME" target="_blank">
+  <a href="https://tryhackme.com/p/phlppklngr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="TryHackMe" />
   </a>
 </div>
 
 ###
 
-<h4 align="left">Because i ove gaming as well oder be nerdy</h4>
+<h4 align="left">pacman monitors my GitHub profile</h4>
 
 ###
 
