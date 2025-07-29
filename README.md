@@ -4,10 +4,10 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-  <span style="font-family: 'Fira Code', monospace; font-size: 24px;">👋 Hi, I am</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=false&vCenter=false&width=500&lines=Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;always+learning+new+things!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I+am+Philipp+Klinger;Fullstack+Developer+%26+IT-Enthusiast;Freelancing+Digital+Nomad;always+learning+new+things!" alt="Typing SVG" />
+</p>
+
 
 
 
